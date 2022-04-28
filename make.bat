@@ -1,0 +1,1 @@
+go build -ldflags "-s -w -H=windowsgui" -o xmlarchiver.exe
